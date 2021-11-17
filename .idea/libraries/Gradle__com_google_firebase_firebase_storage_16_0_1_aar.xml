@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.firebase:firebase-storage:16.0.1@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c96fd5c186f5046583df336c59d44f26/firebase-storage-16.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d3d08beb72f01ef57d13362175d1ac2b/jetified-firebase-storage-16.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d3d08beb72f01ef57d13362175d1ac2b/jetified-firebase-storage-16.0.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d3d08beb72f01ef57d13362175d1ac2b/jetified-firebase-storage-16.0.1/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e3f7eda5b367db0c70036026b4795bae/jetified-firebase-storage-16.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e3f7eda5b367db0c70036026b4795bae/jetified-firebase-storage-16.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e3f7eda5b367db0c70036026b4795bae/jetified-firebase-storage-16.0.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8e559656a178568da59135026413788c/jetified-firebase-storage-16.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ddd979ed79707ebde0dc3e52bc796141/jetified-firebase-storage-16.0.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ddd979ed79707ebde0dc3e52bc796141/jetified-firebase-storage-16.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ddd979ed79707ebde0dc3e52bc796141/jetified-firebase-storage-16.0.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6e62168144ed9f71194b395c21175e92/jetified-firebase-storage-16.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6e62168144ed9f71194b395c21175e92/jetified-firebase-storage-16.0.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6e62168144ed9f71194b395c21175e92/jetified-firebase-storage-16.0.1/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,30 @@
+<component name="libraryTable">
+  <library name="Gradle: com.rengwuxian.materialedittext:library:2.1.4@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7a10bb787fa67862ed136b5d6110fa86/jetified-library-2.1.4/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b729e8aa0d801034e74e9fe28bbd975d/jetified-library-2.1.4/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/845ccee64877f0da12523638f873370f/jetified-library-2.1.4/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/832388facb8f5c00dc92aea576f988ed/jetified-library-2.1.4/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7a10bb787fa67862ed136b5d6110fa86/jetified-library-2.1.4/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7a10bb787fa67862ed136b5d6110fa86/jetified-library-2.1.4/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7a10bb787fa67862ed136b5d6110fa86/jetified-library-2.1.4/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b729e8aa0d801034e74e9fe28bbd975d/jetified-library-2.1.4/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b729e8aa0d801034e74e9fe28bbd975d/jetified-library-2.1.4/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b729e8aa0d801034e74e9fe28bbd975d/jetified-library-2.1.4/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/845ccee64877f0da12523638f873370f/jetified-library-2.1.4/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/845ccee64877f0da12523638f873370f/jetified-library-2.1.4/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/845ccee64877f0da12523638f873370f/jetified-library-2.1.4/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/832388facb8f5c00dc92aea576f988ed/jetified-library-2.1.4/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/832388facb8f5c00dc92aea576f988ed/jetified-library-2.1.4/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/832388facb8f5c00dc92aea576f988ed/jetified-library-2.1.4/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.rengwuxian.materialedittext/library/2.1.4/55b0a991e9defb3bc902d9fb97fd436554119d4e/library-2.1.4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.rengwuxian.materialedittext/library/2.1.4/421c5ba24415fde1222bd75540aa012efc22ed5a/library-2.1.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
